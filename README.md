@@ -1,5 +1,8 @@
 # Quotes On NewTab Extension
 
+library(tweetrmd)
+tweet_embed("https://twitter.com/ammarBenYasser0/status/1493647356373442573")
+
 ## Loading The Extension to a Chromuim browser
 
 1. Open the **Extension Management page**
